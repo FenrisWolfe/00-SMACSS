@@ -38,3 +38,7 @@ aside {
   padding-top: 30px;
   padding-bottom: 60px
 }
+
+a {
+  text-decoration: none;
+}
